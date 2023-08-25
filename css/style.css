@@ -1,4 +1,19 @@
-h1, h2, h3, h4{background-color: rgba(12, 185, 237, 0.871); padding: 10 ;}
-body{font-family: Verdana, Geneva, Tahoma, sans-serif; max-width: 600px;} 
-body{margin: auto;}
-html{background-color: rgb(218, 227, 224);}
+ h4{background-color: rgba(197, 213, 217, 0.871); padding:20px ; text-align: center;}
+body{font-family: Verdana; max-width: 100%; text-align: center;} 
+
+h3,h4{
+  color: blue} 
+
+html;body{margin: 100%;}
+#imagem_fundo { background: url(../fundo.png);
+height: 100%; text-align: center; background-position: center;
+}
+#TITULO { color: white; font-family: Verdana; padding-top: 10%; }
+#SUBTITULO { color: white; font-family:Verdana; padding-top: 10%; padding-left: 10%; padding-right: 10%;}
+
+#video { background-color: blue;}
+.icone{
+  width: 100px;
+}
+.PROJETO{ width: 80%;}
+body{font-family: Verdana; max-width: 100%; text-align: center; }
